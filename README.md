@@ -111,8 +111,8 @@ Node.js (v18+) npm or yarn
 
 Installation
 
-Clone the repository: textgit clone
-https://github.com/unlikelycreator/expensegrid.git cd expense-grid
+Clone the repository: git clone
+https://github.com/unlikelycreator/expensegrid.git  >  cd expense-grid
 
 Install dependencies: textnpm install
 
